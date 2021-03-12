@@ -1,0 +1,11 @@
+.background {
+    margin: 0 auto;
+    float: left;
+    padding: 20px;
+    width: 30%;
+}
+
+.repo-card {
+    height: 175px;
+}
+
